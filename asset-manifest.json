@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sneha-2310/path-visualiser/static/css/main.187a1130.css",
-    "main.js": "/Sneha-2310/path-visualiser/static/js/main.ae1be112.js",
-    "index.html": "/Sneha-2310/path-visualiser/index.html",
-    "main.187a1130.css.map": "/Sneha-2310/path-visualiser/static/css/main.187a1130.css.map",
-    "main.ae1be112.js.map": "/Sneha-2310/path-visualiser/static/js/main.ae1be112.js.map"
+    "main.css": "/path-visualiser/static/css/main.187a1130.css",
+    "main.js": "/path-visualiser/static/js/main.ae1be112.js",
+    "index.html": "/path-visualiser/index.html",
+    "main.187a1130.css.map": "/path-visualiser/static/css/main.187a1130.css.map",
+    "main.ae1be112.js.map": "/path-visualiser/static/js/main.ae1be112.js.map"
   },
   "entrypoints": [
     "static/css/main.187a1130.css",
